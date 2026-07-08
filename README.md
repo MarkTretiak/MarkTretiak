@@ -1,8 +1,4 @@
 # Hi there, I'm Mark! 👋
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=MarkTretiak&color=00FFCC&style=flat-square&label=PROFILE+VIEWS" alt="Views" />
-</p>
-
 <!-- Dynamic Typing Banner (Using a rock-solid alternative template) -->
 ![](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00FFCC&width=500&lines=Software+Engineer;Tech+Enthusiast;Open+Source+Contributor)
 
