@@ -66,16 +66,16 @@
 <table align="center" width="100%">
   <tr>
     <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="Stats" width="100%" />
+      <img src="https://github-readme-stats.vercel.app/api?username=MarkTretiak&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="Stats" width="100%" />
     </td>
     <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="100%" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarkTretiak&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="100%" />
     </td>
   </tr>
 </table>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="Streak Stats" width="100%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MarkTretiak&theme=tokyonight&hide_border=true" alt="Streak Stats" width="100%" />
 </p>
 
 ---
@@ -84,9 +84,9 @@
 
 <!-- This snake game eats your contributions grid! Rules to set this up automatically are in Step 2 below -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MarkTretiak/MarkTretiak/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MarkTretiak/MarkTretiak/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/MarkTretiak/MarkTretiak/output/github-contribution-grid-snake.svg">
 </picture>
 
 ---
