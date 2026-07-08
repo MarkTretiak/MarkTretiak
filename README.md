@@ -110,14 +110,7 @@
 
 ### 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MarkTretiak&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" height="180" alt="Mark's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarkTretiak&layout=compact&theme=tokyonight" height="180" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MarkTretiak&theme=tokyonight" alt="GitHub Streak" />
-</p>
+[![]](https://github-readme-stats.vercel.app/api?username=MarkTretiak&show_icons=true&theme=tokyonight&count_private=true&cache_version=1)
 
 ---
 
