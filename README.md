@@ -20,7 +20,7 @@
     <td width="50%" valign="top">
       <h4>🎯 Current Focus</h4>
       <ul>
-        <li>🔭 Working on building scalable applications.</li>
+        <li>🔭 Working on data engineering projects.</li>
         <li>🌱 Diving deeper into system architecture and performance optimization.</li>
         <li>👯 Looking to collaborate on innovative open-source projects.</li>
       </ul>
@@ -28,7 +28,7 @@
     <td width="50%" valign="top">
       <h4>⚡ Quick Facts</h4>
       <ul>
-        <li>💬 Ask me about anything related to tech or coffee.</li>
+        <li>💬 Ask me about anything related to tech or energy drinks.</li>
         <li>⚡ Fun fact: I treat debugging like solving a detective mystery.</li>
         <li>📫 How to reach me: Drop a message on my socials below.</li>
       </ul>
