@@ -1,6 +1,6 @@
 <!-- Typing Animation Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00FFCC&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+a+Developer!+🚀;Building+cool+stuff+with+code...;Welcome+to+my+digital+space!+✨" alt="Typing Animation" />
+  <img src="[![Typing Animation](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00FFCC&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Mark!+🚀;Building+cool+stuff+with+code...;Welcome+to+my+digital+space!+✨)](https://git.io/typing-svg)" />
 </p>
 
 <!-- Profile Views Badge & Subtitle -->
@@ -57,21 +57,15 @@
 
 ---
 
-### 📊 Github Analytics
-
-<table align="center" width="100%">
-  <tr>
-    <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=MarkTretiak&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="Stats" width="100%" />
-    </td>
-    <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarkTretiak&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="100%" />
-    </td>
-  </tr>
-</table>
+### 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MarkTretiak&theme=tokyonight&hide_border=true" alt="Streak Stats" width="100%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MarkTretiak&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" height="180" alt="Mark's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarkTretiak&layout=compact&theme=tokyonight" height="180" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MarkTretiak&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 ---
