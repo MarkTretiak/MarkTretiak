@@ -1,6 +1,6 @@
 <!-- Typing Animation Header -->
 <p align="center">
-  <img src="[![Typing Animation](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00FFCC&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Mark!+🚀;Building+cool+stuff+with+code...;Welcome+to+my+digital+space!+✨)](https://git.io/typing-svg)" />
+  <img src="[![Typing Animation]([https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00FFCC&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Mark!+🚀;Building+cool+stuff+with+code...;Welcome+to+my+digital+space!+✨)](https://git.io/typing-svg)](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00FFCC&width=500&lines=Software+Engineer;Tech+Enthusiast;Open+Source+Contributor)" />
 </p>
 
 <!-- Profile Views Badge & Subtitle -->
