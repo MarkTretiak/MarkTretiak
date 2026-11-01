@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <strong>Software Engineer | Tech Enthusiast | Open Source Contributor</strong>
+  <strong>Data Engineer | Tech Enthusiast | Open Source Contributor</strong>
 </p>
 
 ---
@@ -28,8 +28,7 @@
     <td width="50%" valign="top">
       <h4>⚡ Quick Facts</h4>
       <ul>
-        <li>💬 Ask me about anything related to tech or energy drinks.</li>
-        <li>⚡ Fun fact: I treat debugging like solving a detective mystery.</li>
+        <li>💬 Ask me about anything related to tech or games.</li>
         <li>📫 How to reach me: Drop a message on my socials below.</li>
       </ul>
     </td>
